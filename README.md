@@ -22,7 +22,7 @@ The project contains a react app and a server which provides the REST API.
 
  ```  
      $ cd server
-     $ node api-server
+     $ node api-server.js
  ```
 - And Go to the phone-catalog folder
  
